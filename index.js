@@ -21,7 +21,7 @@ client.on('ready', async () => {
         .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1176952548545003660/1197972798476406854/channels4_profile.jpg?ex=65bd361c&is=65aac11c&hm=6a3eb90e3585c88141635fd224360f2af8c31e28d6800981fc90daa825079172&')
         .setAssetsLargeText('APGR')
         .addButton('Youtube', 'https://youtube.com/@apgr.?si=2TSMO7joLCtaaG70')
-        .addButton('Discord Server', 'https://discord.com/invite/wQRzYpH298');
+        .addButton('Youtube FortniteAPGR', 'https://youtube.com/@FortniteAPGR?si=i81KOfaB9Mib3gCT');
 
     client.user.setActivity(r);
     client.user.setPresence({ status: 'idle' });
